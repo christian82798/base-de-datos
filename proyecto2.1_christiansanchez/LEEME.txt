@@ -1,0 +1,5 @@
+Renombra esta carpeta sustituyendo nombreapellido.
+Los 17 archivos numerados son plantillas por completar, no soluciones.
+if.py es el archivo original de referencia.
+Sigue la actividad guiada y añade informe2.1_nombreapellido.pdf.
+Entrega la carpeta comprimida como proyecto2.1_nombreapellido.zip.
